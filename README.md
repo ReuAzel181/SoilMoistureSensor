@@ -30,7 +30,7 @@ This project provides a soil moisture monitoring system using an Arduino board a
 2. Power the Arduino board.
 3. Monitor the display for real-time soil moisture readings.
 
-![Soil Moisture Sensor Interfacing](https://github.com/ReuAzel181/SoilMoistureSensor/raw/9a9bf0116b21ae88c4933070274ec4e87c51e5f4/Soil%20Moisture%20Sensor%20Interfacing.png =250x250)
+![Soil Moisture Sensor Interfacing](https://github.com/ReuAzel181/SoilMoistureSensor/raw/9a9bf0116b21ae88c4933070274ec4e87c51e5f4/Soil%20Moisture%20Sensor%20Interfacing.png)
 
 **Contributing**
   - Feel free to contribute to the project by submitting issues or pull requests. We welcome any improvements or bug fixes!
