@@ -40,8 +40,9 @@ This project provides a soil moisture monitoring system using an Arduino board a
 
 ### Contact
     For any questions or feedback, please reach out to:
-    **Author:** ReuAzel181
+  
+**Author: ** ReuAzel181
 
-    **Email:** reyuasel@gmail.com 
+**Email: ** reyuasel@gmail.com 
 
 - Thank you for checking out the 2D Game Platformer project!
