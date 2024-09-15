@@ -38,11 +38,11 @@ This project provides a soil moisture monitoring system using an Arduino board a
 **License**
   - This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Contact
-    For any questions or feedback, please reach out to:
-  
-**Author: ** ReuAzel181
+## Contact
+For any questions or feedback, please reach out to:
 
-**Email: ** reyuasel@gmail.com 
+Author: **ReuAzel181**
 
-- Thank you for checking out the 2D Game Platformer project!
+Email: **reyuasel@gmail.com**
+
+Thank you for checking out the Iconifier project!
