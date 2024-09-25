@@ -45,4 +45,4 @@ Author: **ReuAzel181**
 
 Email: **reyuasel@gmail.com**
 
-Thank you for checking out the Iconifier project!
+Thank you for checking out the Soil Moisture Sensor project!
